@@ -1,4 +1,98 @@
-## Hi there 👋
+# Hi there 👋, I'm Veena H
+
+## 💻 Java Full Stack Developer
+
+I'm a passionate Java Full Stack Developer with a strong foundation in Java, Spring Boot, React.js, and MySQL. I enjoy building scalable web applications, learning modern technologies, and solving real-world problems through software development. I'm currently enhancing my skills in full-stack development and DevOps while actively seeking opportunities to contribute and grow as a software engineer.
+
+---
+
+## 🚀 About Me
+
+* 🌱 Currently learning **Spring Boot, React.js, DevOps, and REST APIs**
+* 💻 Interested in **Full Stack Web Development**
+* 🤝 Open to **Software Developer and Java Full Stack Developer** opportunities
+* 📚 Continuously improving my problem-solving and coding skills
+* ⚡ Passionate about building efficient, user-friendly applications
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+* Java
+* JavaScript
+
+### Frontend
+
+* React.js
+* HTML5
+* CSS3
+
+### Backend
+
+* Spring Boot
+* Spring MVC
+* Hibernate
+* REST APIs
+
+### Database
+
+* MySQL
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* Maven
+* Eclipse
+* IntelliJ IDEA
+* VS Code
+* Postman
+
+---
+
+## 📂 Featured Projects
+
+### 🛒 E-Shop Web Application
+
+A full-stack e-commerce application developed using Spring Boot, React.js, and MySQL. It includes user authentication, product management, shopping cart functionality, and RESTful APIs.
+
+### 🎟️ Book My Ticket
+
+An online ticket booking application that allows users to browse events, reserve tickets, and manage bookings through an intuitive interface.
+
+### 🧠 Brain Tumor Detection using CNN
+
+A deep learning project that detects brain tumors from MRI images using Convolutional Neural Networks (CNN), helping improve medical image analysis.
+
+---
+
+## 📈 Currently Exploring
+
+* DevOps
+* Docker
+* Jenkins
+* AWS
+* Microservices
+
+---
+
+## 📫 Connect with Me
+
+* 📧 Email: veenaveena94052@gmail.com
+* 💼 LinkedIn:https://www.linkedin.com/in/hveena
+
+---
+
+## 🌟 Career Objective
+
+To begin my career as a Software Engineer where I can apply my technical knowledge, continuously learn emerging technologies, and contribute to building innovative and impactful software solutions.
+
+---
+
+⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
+
 
 <!--
 **hveena74/hveena74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
