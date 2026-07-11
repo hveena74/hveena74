@@ -6,11 +6,11 @@ I'm a passionate Java Full Stack Developer with a strong foundation in Java, Spr
 <h2 align="center">🛠️ Skills and Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,spring,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,mysql,hibernate,maven" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=hibernate,maven,git,github,postman,jenkins,aws,eclipse,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode,aws,docker,jenkins,tomcat,postman" />
 </p>
 ---
 
