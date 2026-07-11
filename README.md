@@ -3,7 +3,15 @@
 ## 💻 Java Full Stack Developer
 
 I'm a passionate Java Full Stack Developer with a strong foundation in Java, Spring Boot, React.js, and MySQL. I enjoy building scalable web applications, learning modern technologies, and solving real-world problems through software development. I'm currently enhancing my skills in full-stack development and DevOps while actively seeking opportunities to contribute and grow as a software engineer.
+<h2 align="center">🛠️ Skills and Tools</h2>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,spring,mysql,mongodb" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=hibernate,maven,git,github,postman,jenkins,aws,eclipse,vscode" />
+</p>
 ---
 
 ## 🚀 About Me
@@ -16,40 +24,7 @@ I'm a passionate Java Full Stack Developer with a strong foundation in Java, Spr
 
 ---
 
-## 🛠️ Technical Skills
 
-### Programming Languages
-
-* Java
-* JavaScript
-### Frontend
-
-* React.js
-* HTML5
-* CSS3
-
-### Backend
-
-* Spring Boot
-* Spring MVC
-* Hibernate
-* REST APIs
-
-### Database
-
-* MySQL
-
-### Tools & Technologies
-
-* Git
-* GitHub
-* Maven
-* Eclipse
-* IntelliJ IDEA
-* VS Code
-* Postman
-
----
 
 ## 📂 Featured Projects
 
