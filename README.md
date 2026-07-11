@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Veena H
+# Hi there 👋, I'm H Veena 
 
 ## 💻 Java Full Stack Developer
 
@@ -22,7 +22,6 @@ I'm a passionate Java Full Stack Developer with a strong foundation in Java, Spr
 
 * Java
 * JavaScript
-
 ### Frontend
 
 * React.js
