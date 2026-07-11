@@ -28,17 +28,17 @@ I'm a passionate Java Full Stack Developer with a strong foundation in Java, Spr
 
 ## 📂 Featured Projects
 
-### 🛒 E-Shop Web Application
+### 🔥 Real-Time Monitoring and Evaluation Software for Fire Department
 
-A full-stack e-commerce application developed using Spring Boot, React.js, and MySQL. It includes user authentication, product management, shopping cart functionality, and RESTful APIs.
+A web-based application developed to monitor and evaluate applications received by the Fire Department. The system manages inspections, follow-ups, application status tracking, and the issuance of No Objection Certificates (NOCs).
+
+The project helps reduce manual work, improve application tracking, and provide an efficient workflow for Fire Department operations.
 
 ### 🎟️ Book My Ticket
 
 An online ticket booking application that allows users to browse events, reserve tickets, and manage bookings through an intuitive interface.
 
-### 🧠 Brain Tumor Detection using CNN
 
-A deep learning project that detects brain tumors from MRI images using Convolutional Neural Networks (CNN), helping improve medical image analysis.
 
 ---
 
