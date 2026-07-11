@@ -10,7 +10,7 @@ I'm a passionate Java Full Stack Developer with a strong foundation in Java, Spr
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode,aws,docker,jenkins,tomcat,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode,aws,docker,jenkins,postman" />
 </p>
 ---
 
